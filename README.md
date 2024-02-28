@@ -11,6 +11,8 @@ Repository ini berisi program java basic structure, terdapat 4 program, yaitu:
   <br>Dalam file ini, user input data integer, dimana data tersebut digunakan sebagai batas looping
   untuk membuat segitiga.
   
-- file cekGanjilGenap berisi program cek bilangan ganjil atau genap berdasarkan input user
+- file cekGanjilGenap.java berisi program cek bilangan ganjil atau genap berdasarkan input user
   <br>Dalam file ini, user input dua data integer, dimana kedua data tersebut dijumlahkan dan ditambah 1,
   lalu dicek apakah hasil tersebut merupakan bilangan ganjil atau bilangan genap.
+  
+  <br><br>===Penjelasan lengkap terdapat pada file masing-masing berbentuk komentar===
