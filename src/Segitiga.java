@@ -4,7 +4,9 @@ import java.util.Scanner;
 //class java
 public class Segitiga {
     //method java
-    public static void main(String[] args) {
+    public static void printSegitiga() {
+
+        System.out.println("\n===Segitiga===");
         //input user berisi integer ketinggian segitiga
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan angka ketinggian segitiga: ");

@@ -4,7 +4,9 @@ import java.util.Scanner;
 //class java
 public class Kalkulator {
     //method java
-    public static void main(String[] args){
+    public static void kalkulator(){
+
+        System.out.println("\n===Aritmatika Sederhana===");
         //input user untuk number1 dan number2
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan angka pertama: ");

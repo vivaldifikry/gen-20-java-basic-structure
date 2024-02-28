@@ -4,8 +4,10 @@ import java.util.Scanner;
 //class java
 public class atributVariabel {
     //method java
-    public static void main(String[] args){
-        //input user berisi string nama dan integer usia
+    public static void printVariabel(){
+
+        //input user untuk nama dan usia (String dan integer)
+        System.out.println("===Atribut Variabel===");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan Nama: ");
         String nama = scanner.nextLine();
