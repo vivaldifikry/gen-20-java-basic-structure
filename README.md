@@ -14,8 +14,16 @@ Repository ini berisi program java basic structure. Terdapat 5 program, yaitu:
 - file cekGanjilGenap.java berisi program cek bilangan ganjil atau genap berdasarkan input user
   <br>Dalam file ini, user input dua data integer, dimana kedua data tersebut dijumlahkan dan ditambah 1,
   lalu dicek apakah hasil tersebut merupakan bilangan ganjil atau bilangan genap.
+
+- file bilanganBulatPositif.java berisi program cek bilangan bulat positif.
+  <br>Dalam file ini, user input angka dalam integer, dimana angka ini menjadi total output dimana hasil output adalah bilangan
+  yang habis dibagi 3 dan tidak habis dibagi 2.
+
+- file deretAritmatika.java berisi program pertambahan deret aritmatika
+  <br>Dalam file ini, user input angka integer, dimana angka tersebut menjadi batas deret aritmatika, dan menampilkannya.
   
-- file Main.java berisi program menjalankan fungsi method dari file atributVariabel.java, Kalkulator.java, Segitiga.java, dan cekGanjilGenap.java
+- file Main.java berisi program menjalankan fungsi method dari file atributVariabel.java, Kalkulator.java, Segitiga.java,
+  cekGanjilGenap.java, bilanganBulatPositif.java, dan deretAritmatika.java
   
   
   <br><br>===Penjelasan lengkap terdapat pada file masing-masing berbentuk komentar===
