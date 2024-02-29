@@ -7,7 +7,7 @@ public class atributVariabel {
     public static void printVariabel(){
 
         //input user untuk nama dan usia (String dan integer)
-        System.out.println("===Atribut Variabel===");
+        System.out.println("\n===Atribut Variabel===");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan Nama: ");
         String nama = scanner.nextLine();
